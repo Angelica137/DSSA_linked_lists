@@ -15,6 +15,8 @@ class LinkedList:
             current_node = current_node.next
 
 
+'''
 linked_list = LinkedList(4)
 linked_list.head.next = Node(3)
 linked_list.print_list(linked_list.head.value)
+'''
