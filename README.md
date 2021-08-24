@@ -10,3 +10,7 @@
 2. Traverse the linked list.
 
 Traverse the list and print all the values, no matter how long might the list be
+
+3. Write the code for the create_linked_list fucntion
+   
+The function should take a Python list of values as input and return the head of a linked list that has those values
